@@ -8,3 +8,10 @@
 
 
  
+# Used Links
+
+
+## Kivy 
+
+1. https://kivy.org/doc/stable/guide/basic.html#quickstart // Kivy Manual
+2. https://stackoverflow.com/questions/44905416/how-to-get-started-use-matplotlib-in-kivy // matplotlin plugin in kivy
