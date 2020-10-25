@@ -31,4 +31,5 @@ class MyApp(App):
         box.add_widget(FigureCanvasKivyAgg(plt.gcf()))
         return box
 
-MyApp().run()
+if __name__ == '__main__':
+    MyApp().run()
