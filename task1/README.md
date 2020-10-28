@@ -15,4 +15,5 @@
 
 1. https://kivy.org/doc/stable/guide/basic.html#quickstart // Kivy Manual
 2. https://stackoverflow.com/questions/44905416/how-to-get-started-use-matplotlib-in-kivy // matplotlin plugin in kivy
-3. https://kivy.org/doc/stable/guide/packaging-android.html // To be Read later 
+3. https://github.com/kivy-garden/garden.matplotlib //At **kivy\garden** clone and **rename** this Repository to ---> matplotlib 
+4. https://kivy.org/doc/stable/guide/packaging-android.html // To be Read later 
